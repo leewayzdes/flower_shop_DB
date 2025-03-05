@@ -1,0 +1,58 @@
+{
+    "fields": [
+        "ID",
+        "Name",
+        "Value",
+        "Category"
+    ],
+    "records": [
+        {
+            "ID": "2",
+            "Name": "Tulip",
+            "Value": "200",
+            "Category": "Cut Flowers"
+        },
+        {
+            "ID": "3",
+            "Name": "Orchid",
+            "Value": "35",
+            "Category": "House Plant"
+        },
+        {
+            "ID": "4",
+            "Name": "Sunflower",
+            "Value": "50",
+            "Category": "Cut Flowers"
+        },
+        {
+            "ID": "5",
+            "Name": "Cactus",
+            "Value": "18",
+            "Category": "House Plant"
+        },
+        {
+            "ID": "6",
+            "Name": "Lily",
+            "Value": "45",
+            "Category": "Cut Flowers"
+        },
+        {
+            "ID": "7",
+            "Name": "Fern",
+            "Value": "2",
+            "Category": "House Plant"
+        },
+        {
+            "ID": "8",
+            "Name": "Daisy",
+            "Value": "1000",
+            "Category": "Cut Flowers"
+        },
+        {
+            "ID": "1",
+            "Name": "Rose",
+            "Value": "100",
+            "Category": "Cut Flowers"
+        }
+    ]
+}
